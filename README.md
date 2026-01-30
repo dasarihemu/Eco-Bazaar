@@ -6,6 +6,7 @@ Eco-Bazaar is a sustainable e-commerce platform designed to connect eco-friendly
 - Support Local Sellers: Empower small businesses and individuals producing sustainable goods.
 - User-Friendly Experience: Deliver a smooth shopping journey with intuitive navigation and secure transactions.
 - Scalable Architecture: Built with modern technologies to support future growth and feature expansion.
+
 🛠️ **Tech Stack**
 - Frontend: React + Vite, CSS
 - Backend: Java (Spring Boot)
@@ -16,15 +17,19 @@ Eco-Bazaar is a sustainable e-commerce platform designed to connect eco-friendly
 1.User Registration & Authentication
 - Secure login/signup for buyers and sellers.
 - Role-based access (Admin, Seller, Buyer).
+
 2.Product Management
 - Sellers can add, update, and manage eco-friendly products.
 - Categories for easy browsing (organic, recycled, handmade, etc.).
+
 3.Shopping Experience
 - Buyers can search, filter, and add products to cart.
 - Smooth checkout process with order confirmation.
+
 4.Order & Delivery Tracking
 - Buyers can track orders.
 - Sellers can manage inventory and order status.
+
 5.Admin Dashboard
 - Monitor users, products, and transactions.
 - Ensure platform integrity and security.
