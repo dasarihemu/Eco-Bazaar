@@ -14,6 +14,7 @@ Eco-Bazaar is a sustainable e-commerce platform designed to connect eco-friendly
 - Languages Used: JavaScript (55.5%), Java (24.2%), CSS (20.3%)
 
 🔄 **Project Flow**
+
 1.User Registration & Authentication
 - Secure login/signup for buyers and sellers.
 - Role-based access (Admin, Seller, Buyer).
